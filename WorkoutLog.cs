@@ -21,7 +21,7 @@ namespace Test
 
         public static void Main(string[] args)
         {
-            // create workoutlog object
+            // create workoutlog object for the plan
             WorkoutPlan wlog = new WorkoutPlan();
 
 
